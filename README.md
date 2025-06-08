@@ -33,7 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://i.imgur.com/rmw0MFd.gif)
+![](https://imgur.com/rmw0MFd.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
