@@ -1,7 +1,5 @@
 # 🎬 Movie-Board
 
-Submitted by: Kelvin Mathew
-
 This web app: **This site lists upcoming movies with their posters, release dates and trailers**
 
 ## Features
@@ -25,10 +23,6 @@ Here's a walkthrough of implemented required features:
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
-
-## Notes
-
-It was challenging to center align every element in the different containers.
 
 ## License
 
