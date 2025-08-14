@@ -1,32 +1,39 @@
 # 🎬 Movie-Board
 
-This web app: **This site lists upcoming movies with their posters, release dates and trailers**
+**Description:**  
+Movie-Board is a dynamic web app that lists upcoming movies with posters, release dates, and trailers. Users can browse a clean, responsive gallery of films, explore details at a glance, and access links to watch trailers or learn more about each release.
 
-## Features
+---
 
-- [x] **The app has a cohesive, unique theme for events or resources relevant to a specific community**
-  - [x] Header/title describing the theme is displayed
-- [x] **At least 10 unique events or resources are displayed in a responsive card format**
-  - [x] There are at least 10 cards displayed 
-  - [x] The cards should be displayed in an organized format (ex. a grid, or in one line)
-  - [x] Each card should include some information about the event or resource
-- [x] Buttons or links to a related resources are on each card component
-  - [x] All cards have buttons or links in addition to text
-- [x] The site is responsive for both desktop and mobile formats
-  - [x] Web app is shown in a mobile format
+## 🌟 Features
 
-## Video Walkthrough
+### 🖼️ Movie Gallery
+- **Responsive cards:** Displays at least 10 upcoming movies in an organized, grid-style layout.
+- **Poster & details:** Each card shows the movie poster, release date, and other relevant info.
+- **Cohesive theme:** The app has a unified style highlighting upcoming releases for movie enthusiasts.
 
-Here's a walkthrough of implemented required features:
+### 🔗 Interactivity
+- **Trailer & links:** Each card includes clickable buttons or links to related resources like trailers.
+- **Mobile-friendly:** Fully responsive design for desktop and mobile devices.
 
-![til](https://github.com/KelvinMathew2004/Community-Board/blob/main/Movie-Board.gif)
+### 🎨 Styling & UX
+- **Clean layout:** Cards are centered and well-organized within the page.
+- **User-friendly:** Easy navigation with a simple, intuitive interface.
 
-GIF created with ...  
-[Kap](https://getkap.co/) for macOS
+---
 
-## License
+## 🎥 Walkthrough
 
-    Copyright [2025] [Kelvin Mathew]
+Check out the walkthrough of features in action:
+
+![Video Walkthrough](./Movie-Board.gif)  
+GIF created with [Kap](https://getkap.co/) for macOS
+
+---
+
+## ⚖️ License
+
+    Copyright [2025] Kelvin Mathew
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
